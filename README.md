@@ -1,0 +1,1 @@
+# yii2-php-5.6-apache-xdebug
