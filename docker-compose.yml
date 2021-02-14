@@ -22,7 +22,7 @@ services:
     networks:
       - yii-network
   webyii:
-    image: stefanos87/yii2-php-7.4-apache-xdebug:latest
+    image: stefanos87/yii2-php-5.6-apache-xdebug:latest
     container_name: yiiweb
     depends_on:
       - dbyii
